@@ -1,0 +1,12 @@
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\bin\Debug\Wwing4.exe.config
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\bin\Debug\Wwing4.exe
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\bin\Debug\Wwing4.pdb
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.Properties.Resources.resources
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.csproj.GenerateResource.Cache
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.exe
+c:\users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.pdb
+C:\Users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.csprojResolveAssemblyReference.cache
+C:\Users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.Form1.resources
+C:\Users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.TabControlEx.resources
+C:\Users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.WebTabPage.resources
+C:\Users\atnanasi\documents\visual studio 2015\Projects\Wwing4\Wwing4\obj\Debug\Wwing4.WebBrowserEx.resources
